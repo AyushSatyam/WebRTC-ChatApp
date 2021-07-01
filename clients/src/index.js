@@ -6,9 +6,7 @@ import App from "./App";
 import { ContextProvider } from "./SocketContext";
 ReactDOM.render(
   <ContextProvider>
-    <React.Fragment>
-      <App />
-    </React.Fragment>
+    <App />
   </ContextProvider>,
   document.getElementById("root")
 );

@@ -7,7 +7,8 @@ const Notifications = () => {
   const { answerCall, call, callAccepted } = useContext(SocketContext);
 
   return (
-    <>
+    <div>
+      {console.log(call.isReceivingCall)}
       {call.isReceivingCall && !callAccepted && (
         <div style={{ display: "flex", justifyContent: "space-around" }}>
           <h1>{call.name} is calling:</h1>
@@ -16,7 +17,7 @@ const Notifications = () => {
           </Button>
         </div>
       )}
-    </>
+    </div>
   );
 };
 
