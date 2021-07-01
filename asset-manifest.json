@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/WebRTC-ChatApp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/WebRTC-ChatApp/static/js/main.038d2e28.chunk.js",
+    "main.js.map": "/WebRTC-ChatApp/static/js/main.038d2e28.chunk.js.map",
+    "runtime-main.js": "/WebRTC-ChatApp/static/js/runtime-main.70e3852b.js",
+    "runtime-main.js.map": "/WebRTC-ChatApp/static/js/runtime-main.70e3852b.js.map",
+    "static/js/2.3dff40ea.chunk.js": "/WebRTC-ChatApp/static/js/2.3dff40ea.chunk.js",
+    "static/js/2.3dff40ea.chunk.js.map": "/WebRTC-ChatApp/static/js/2.3dff40ea.chunk.js.map",
+    "index.html": "/WebRTC-ChatApp/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/WebRTC-ChatApp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3dff40ea.chunk.js.LICENSE.txt": "/WebRTC-ChatApp/static/js/2.3dff40ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70e3852b.js",
+    "static/js/2.3dff40ea.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.038d2e28.chunk.js"
+  ]
+}
